@@ -6,7 +6,7 @@ This program calculates the total travel fare for passengers based on distance a
 ## Program Specifications
 
 ### Version 1
-Description: A simple program that takes user inputs and calculates the total fare.
+Description: The initial version of the program that takes user details and computes the total fare.
 
 Inputs: Passenger name, distance in km, and number of passengers.
 
@@ -15,7 +15,7 @@ Processes: Multiplies distance by the fare rate (14) and the number of passenger
 Outputs: Prints the passenger name and the total fare.
 
 ### Version 2
-Description: Updated the program to include input validation to handle bad user inputs.
+Description: An updated version that introduces input validation to handle incorrect user entries cleanly.
 
 Validation Rules:
 
